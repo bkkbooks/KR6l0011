@@ -346,8 +346,6 @@ markers:
   - {type: line-break, offset: 1295, content: '', id: KR6l0011_T_030-0217a27, ed: T, 'n': 0217a27}
   - {type: punctuation, offset: 1307, content: 、, id: KR6l0011_T_030-bkkpn229}
   - {type: line-break, offset: 1313, content: '', id: KR6l0011_T_030-0217a28, ed: T, 'n': 0217a28}
-  - {type: substitution, offset: 1314, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
-  - {type: substitution, offset: 1317, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4510}}
   - {type: punctuation, offset: 1320, content: ，, id: KR6l0011_T_030-bkkpn230}
   - {type: punctuation, offset: 1324, content: 。, id: KR6l0011_T_030-bkkpn231}
   - {type: punctuation, offset: 1328, content: ：, id: KR6l0011_T_030-bkkpn232}
@@ -1052,7 +1050,6 @@ markers:
   - {type: line-break, offset: 4042, content: '', id: KR6l0011_T_030-0219a17, ed: T, 'n': 0219a17}
   - {type: punctuation, offset: 4046, content: ，, id: KR6l0011_T_030-bkkpn710}
   - {type: punctuation, offset: 4050, content: 。, id: KR6l0011_T_030-bkkpn711}
-  - {type: substitution, offset: 4051, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: punctuation, offset: 4056, content: ，, id: KR6l0011_T_030-bkkpn712}
   - {type: line-break, offset: 4059, content: '', id: KR6l0011_T_030-0219a18, ed: T, 'n': 0219a18}
   - {type: punctuation, offset: 4062, content: 、, id: KR6l0011_T_030-bkkpn713}
@@ -2389,4 +2386,4 @@ markers:
   - {type: line-break, offset: 9148, content: '', id: KR6l0011_T_030-0222c04, ed: T, 'n': 0222c04}
   - {type: line-break, offset: 9148, content: '', id: KR6l0011_T_030-0222c05, ed: T, 'n': 0222c05}
   back: []
-hash: sha256:b5bc0df8575806b9f859c1197b67acb1c2ee7629e71b1194841fae8e11b3aeb8
+hash: sha256:1714a2a761b5d86b36529ab613c6f81d5e7260f6e5c21e995d82abfa2c71dc21
